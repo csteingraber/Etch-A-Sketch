@@ -1,1 +1,2 @@
 # Etch-A-Sketch
+This project is to show experience with JavaScript & jQuery. From The Odin Project's [cirriculum](http://www.theodinproject.com/courses/web-development-101/lessons/javascript-and-jquery?ref=lnav)

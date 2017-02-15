@@ -2,7 +2,7 @@ var grid = '<div class="default-grid"></div>';
 var containerWidth = parseFloat($('#container').css('width'));
 
 $(document).ready(function() {
-	drawGrid(16, 1);
+	drawGrid(32, 1);
 	$('#container').on('mouseenter', '.default-grid', function() {
 		$(this).addClass('hovered');
 	});
